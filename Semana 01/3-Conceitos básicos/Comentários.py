@@ -2,9 +2,9 @@
 A = input()
 B = input()
 
-#Conversão de tipos
+# Conversão de tipos
 A = int(A)
 B = int(B)
 
-#Impressão da soma
+# Impressão da soma
 print(A + B)
