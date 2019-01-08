@@ -8,3 +8,7 @@ B = int(B)
 
 # Impressão da soma
 print(A + B)
+
+'''comentário
+de
+linhas'''
